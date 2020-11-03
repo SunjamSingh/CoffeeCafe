@@ -1,0 +1,14 @@
+color scheme
+#303030 - black
+#8f7f74 - brown
+#d2b48c - yellow brown
+#fcfaf7 - yellow white
+
+image sizes 
+640x960
+640x1140
+640x1140
+640x800
+640x427
+640x960
+640x853
