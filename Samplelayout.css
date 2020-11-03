@@ -14,7 +14,8 @@ body {
 header h1{
     text-align: center;
     font-size: 45px;
-    
+    font-family: Florence, cursive;
+    font-weight: bold;
 }
 #disclaimer {
     text-align: center;
@@ -31,7 +32,6 @@ header h1{
   box-sizing: border-box;
   display: flex;
   align-items: center;
-    
 }
 .topnav a {
   float: left;
@@ -154,7 +154,7 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
 #center{
     text-align:center;
-    font-size: 150%
+    font-size: 200%
 }
 
 
